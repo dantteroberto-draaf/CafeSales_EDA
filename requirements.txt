@@ -1,0 +1,7 @@
+import pandas as pd
+import seaborn as sns
+import matplotlib
+
+pandas == 2.3.3
+seaborn == 0.13.2
+matplotlib == 3.10.8
